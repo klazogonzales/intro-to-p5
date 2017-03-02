@@ -4,6 +4,7 @@ function setup(){
 }
 
 function draw(){
+    //lines
     line(35,80,400,200);
     line(40,90,500,300);
     stroke(255,255,255);
